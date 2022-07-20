@@ -1,0 +1,42 @@
+Formatação de textos
+
+Referência: Capítulo 8
+
+-----------
+
+Cor é forma e não sigificado
+
+css: estilo
+
+comando css
+
+Dentro de colocações pontuais vc usa o comando style=""
+ex:<mark style="" >
+
+No exemplo da marcação colocar background-color:Cor
+
+Se voce parar o mouse emcima da palavra line no comando, da pra personalizar por rgb
+
+
+Duas maneiras de se colocar styke
+Dentro da tag
+A outra é dentro do documento
+----------------------------------------
+
+OBS: Pq Big foi dado como obsoleto? Pois ele não esta dando significado a nada somente forma e forma é css
+
+Ja small da significado pois dentro de um contrato pode se inserir a seguinte frase "Leia as letras pequenas"
+--------------------------------------------
+Respostas PDF 8
+
+b - Forma e significado
+d - Tags smânticas
+c - strong
+c - aside
+a - strong e em
+d - a tag big deixou de existir e a tag small segue funcionando
+b - ins
+d - sup e sub
+
+
+

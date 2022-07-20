@@ -1,0 +1,14 @@
+Referência: Capítulo 10
+
+
+PS: Para ganhar uma Ancoragem melhor e capitação é bem melhor você ter diversos links seus para entender melhor:
+	O google é um servidor de busca onde dentro dele pode 	impulsionar para o youtube, sendo assim se um link 	direcionar a outro, significa que você está puxando mais 	links para você.
+SEO = Organização para mecânismos de busca (Estudar)
+----------------------------------
+
+Link e ancoragem
+Dentro de um paragrafo, titulo e etc se pode envelopar com a tag "a"
+Essa tag vai dar o direcionamento para uma hyper linkagem mas cuidado 
+
+Colocando sempre target="_blank" e rel="external"
+Para abrir uma outra aba, aumentando as chances da pessoa voltar ao seu link.

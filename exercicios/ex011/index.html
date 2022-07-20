@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="imagens/favicon.ico">
+    <title>Links</title>
+</head>
+<body>
+<!--Cabeçalho-->    
+    <h1>Links e Âncoras em HTML5</h1>
+    <p>Os links são navegações entre layers ou páginas e isso se chama o hyper link que ancora de um ponto a outro.</p>
+    <hr>
+    <!--Conteúdo-->
+        <h2>Usando links Externos</h2>
+        <p><a href="https://www.instagram.com/sebastianschiavinato/" target="_blank" rel="external">Instagram:</a> Maior <strong>portifólio visual</strong></p>
+        <p>Voce também pode Acessar o meu <a href="https://www.youtube.com/channel/UCkFINkKDQ8eGt1hTcKh5lxw">Youtube</a></p>
+        <!--A diferença de um para o outro no caso é que o canal no youtube vai sobrepor o site , ja o instagram vai abrir uma nova janela tendo mais chances da pessoa voltar a seu site.-->
+<hr>
+        <h2>Usando Links Internos</h2>
+        <p>É uma ancoragem que vai levar a uma página dentro do nosso próprio servidor</p>
+        <p><a href="layer1.html" target="_self" rel="next">Conheça-nos</a></p>
+<hr>
+        <h2>Usando o nonfollow</h2>
+        <p>Site não seguro ou que não possui o seu aval:</p>
+        <p><a href="publicidade/layer2.html" rel="nofollow">Site</a></p>
+        <!--o nofollow é uma marcação dentro do rel para  para informar que não possui seu aval.-->
+<hr>
+        <h2>Links para download</h2>
+        <ul type="disc">
+                <!--A primeira forma só consiste no arquivo puro de pdf-->
+                <li><a href="biblioteca/livro.pdf" download="livro.pdf" type="application/pdf"></a>Baixar o livro em PDF.</li>
+                <!--A segunda forma consiste no arquivo compactado para download-->
+                <li><a href="biblioteca/livro.rar" download="livro.rar" type="application/rar">Baixar o Livro compactado em RAR.</a></li>    
+        </ul>
+        <p></p>
+        
+</body>
+</html>

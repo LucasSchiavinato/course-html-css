@@ -1,0 +1,42 @@
+Notas
+
+Referência Capítulo 8
+--------------------------
+
+Sobre o código fonte a formatação de espaço das letras apaga algumas letras e não reserva o mesmo espaço para todas
+
+como resolver isso?
+colocando dentro da tag <code></code>
+ps: Mas o code não organiza seu código com identação
+
+Indentar, de afastar o texto da sua margem, geralmente inserindo espaços entre a margem e o começo do parágrafo.
+
+Como colocar identado?
+
+Inserir o code dentro de um pre que é um codigo fonte pre formatado.
+
+E para coggigir a tabulação para amostragem, deve se selecionar e apertar shift+tab
+Assim corrigindo a tabulação no paragrafo.
+
+--------------------------
+
+Citação
+tag q (citações simples)  - Para ser usado como uma citação em vez de aspas para dar sentido.
+
+tag blockquote - Para dar espaçamento correto a citação
+Indicando dentro da tag tbm da onde foi pego como site e etc
+cite=''
+
+Abreviações
+Tag abbr
+E dentro vc coloca o significado da palavra 
+
+Texto invertido pra zuera
+Dentro de um paragrafo vc insere bdo dir="rtl"
+-----------------
+
+c - blockquote e cite
+a - bdo e rtl
+
+
+

@@ -1,0 +1,9 @@
+Notas html
+
+Referência: Capítulo 7
+
+A hierarquia de titulos vai de 1 a 6
+Sendo o 1 o maior e 6 o menor
+
+O estilo vai ser verificado em css mas em questão de html está semantico
+----------------------------------------------------------------

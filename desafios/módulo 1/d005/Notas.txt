@@ -1,0 +1,6 @@
+A página tem:
+
+1 H1
+2 H2
+Uma sequência de lista desordenada "disc" com 6 itens, contendo dentro deles as tags:
+Img descriminada + a abrindo em outra aba para ganhar link e descriminada, além de descrição

@@ -1,0 +1,8 @@
+DOCTYPE html - Se refere ao tipo de documento
+Tags - São todos os escritos que se diferem por abertura e fechamento
+head - Tipo de configuração
+	meta charset="UTF-8" - Se refere a todo o tipo de 	acentuação
+	name=viewport - vai ocupar 100% da area disponivel do 	body
+body - Tipo de conteudo
+h1 - Titulo
+p1 - Paragrafo

@@ -1,0 +1,19 @@
+Notas
+
+Referência: Capítulo 9
+-------------
+
+Lista ordenada
+Tag ol para delimitar a lista
+e dentro a tag li para identificar os itens da mesma
+
+Lista desordenada
+Tag ul para delimitar a lista
+e dentroa tag li para identificar os itens da lista
+
+macete
+Segurando o alt e selecionando aonde quer apagar, apaga e coloca a letra para mudar todas automaticamente
+
+Lista de definição
+A tag dl para delimitar a lista
+dentro a tag dt para definir o que esta falando e dentro a tag dd para informar a definição.

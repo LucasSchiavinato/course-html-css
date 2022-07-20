@@ -1,0 +1,29 @@
+Notas 
+Referencia: Capítulo 6 
+
+Tamanho: O maximo que se deve trabalhar com a dimensão de uma imagem em site é 1500xetc
+Resolução: 72 é um tamanho okay a razoavel (Acima disso vira desperdicio
+
+Comando para inserir imagem
+<img
+Para selecionar a imagem que esta na mesma pasta
+ctrl+espaço
+---------------
+icones 
+Lugares bom para baixar
+Icon Arquive
+
+Lugar bom para criar seu icone(desenhar)
+favicon.cc
+
+Criar seu icone mais facilitado
+favicon.io
+
+Comando para inserir favicon
+dentro das configurações(head)
+inserir o <link rel"shortcut icon" href="Endereço do icone">
+
+Recomendação: deixar favicon como favicon.ico
+
+--------------------
+ctrl+n = Abre nova aba em windows search

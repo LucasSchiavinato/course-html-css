@@ -1,0 +1,5 @@
+Deixei o favicon como favicon.icon
+Titulo
+H1
+paragrafo
+Escolhi a imagem M para uso 

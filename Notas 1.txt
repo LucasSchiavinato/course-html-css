@@ -1,0 +1,9 @@
+Quebra de linha errada
+
+<br><br><br><br><br><br><br>
+
+Se quiser um espaçamento maior, vai pro CSS
+
+
+Adicionar emoji:
+&#x + codigo emojipedia
